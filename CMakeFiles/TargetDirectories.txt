@@ -1,0 +1,3 @@
+/home/whatsis/Documents/20161073_Assignment1/CMakeFiles/edit_cache.dir
+/home/whatsis/Documents/20161073_Assignment1/CMakeFiles/graphics_assign1.dir
+/home/whatsis/Documents/20161073_Assignment1/CMakeFiles/rebuild_cache.dir
