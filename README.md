@@ -1,5 +1,3 @@
-Graphics Assignment 1
-=====================
 
 Pacman Killer 2D game in OpenGL 3. More details in the statement [PDF](Assign1.pdf).
 
