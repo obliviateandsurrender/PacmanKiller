@@ -37,12 +37,12 @@ make
 |           d |  Pan right |
 
 
-#####Mouse Controls
+##### Mouse Controls
 * Scroll up to Zoom in.
 * Scroll down to Zoom out.
 * Mouse click and drag for panning when screen is zoomed.
 
-3. Scoring
+## 3. Scoring
 -------
 - Each enemy ball is given random points on the basis of its color.
 - Balls with reflection slab has no points.
